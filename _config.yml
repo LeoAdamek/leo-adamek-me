@@ -1,19 +1,19 @@
 # Dependencies
 markdown:	redcarpet
-pygments:	true
+highlighter:    pygments
 
 # Permalinks
 permalink:	/blog/:title
 
 # Setup
-title:		Thinny
-tagline:	'blog'
-description:	'My personal blog.'
-url:		http://camporez.com
+title:		Leo Adamek
+tagline:	'Cynnical Programmer'
+description:	'Blog of a Cynnical Programmer'
+url:		http://leo.adamek.me
 
 author:
-  name:		'Ian Camporez Brunelli'
-  url:		https://google.com/+IanCamporezBrunelli
+  name:		'Leo Adamek'
+  url:		https://google.com/+LeoAdamek
 
 paginate:	5
 
@@ -23,15 +23,15 @@ cover:		/assets/images/cover.jpg
 
 social:
   - icon:	twitter
-    url:	https://twitter.com/iancamporez
+    url:	https://twitter.com/LeoAdamek
     desc:	Follow me on twitter
 
   - icon:	github
-    url:	https://github.com/camporez
+    url:	https://github.com/LeoAdamek
     desc:	Fork me on github
 
   - icon:	googleplus-alt
-    url:	https://google.com/+IanCamporezBrunelli
+    url:	https://google.com/+LeoAdamek
     desc:	Add me on google+
 
   - icon:	feed
@@ -42,11 +42,8 @@ menu:
   - title:	Home
     url:	/
     
-  - title:	About
-    url:	/about
-    
 copyright:
-  author:	Camporez
+  author:	Leo Adamek
   url:		http://camporez.com
-  type_title:	Some rights reserved
-  type_url:	http://creativecommons.org/licenses/by-nc/2.5
+  type_title:	Creative Commons 3.0 BY-SA
+  type_url:	http://creativecommons.org/licenses/by-sa/3.0
