@@ -1,6 +1,3 @@
-Change is Good
-==============
-
 Change is a good thing, so here's some.
 Starting today, by blog will reside on [Jekyll](http://jekyllrb.com/)
 
