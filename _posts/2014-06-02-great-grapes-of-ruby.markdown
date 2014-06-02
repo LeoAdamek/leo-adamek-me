@@ -50,4 +50,4 @@ Grape also supports positional path parameters much like rails. The `params bloc
   end
 ~~~~
 
-
+[grape]: http://intridea.github.io/grape/
